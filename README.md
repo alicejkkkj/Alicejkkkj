@@ -4,4 +4,4 @@
 **Desenvolvendo linguagem JavaScript**
 
 
-![](https://media.tenor.com/gZU3n_9Nv2EAAAAM/cat-cat-stare.gif)
+![](https://media.tenor.com/GOabrbLMl4AAAAAM/plink-cat-plink.gif)
